@@ -30,4 +30,3 @@
 // console.log(newNames);
 
 //console.log(names.includes('Игорь') !== -1)
-
